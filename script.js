@@ -37,7 +37,7 @@ const joke = {
     const randomAnswerIndex = Math.floor(
       Math.random() * this.answerJokes.length
     );
-    return `${this.questionStart[randomQuestionStartIndex]} ${this.action[randomActionIndex]}? ${this.answerJokes[randomAnswerIndex]}\n`;
+    return `${this.questionStart[randomQuestionStartIndex]} ${this.action[randomActionIndex]}? ${this.answerJokes[randomAnswerIndex]} 🤣\n`;
   },
 };
 
