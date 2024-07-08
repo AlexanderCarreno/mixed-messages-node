@@ -4,6 +4,7 @@
   "description": "script to generate nonsensical jokes",
   "main": "script.js",
   "scripts": {
+    "dev": "node script.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "AlexanderCarreno",
